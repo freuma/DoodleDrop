@@ -52,7 +52,7 @@
 	//  - The ViewController way
 	//    - A bit slower, but the UiKit objects are placed in the right place
 	//
-	
+/* 	
 #if GAME_AUTOROTATION==kGameAutorotationNone
 	//
 	// EAGLView won't be autorotated.
@@ -92,10 +92,11 @@
 #error Unknown value in GAME_AUTOROTATION
 	
 #endif // GAME_AUTOROTATION
-	
+*/
+	return ( interfaceOrientation == UIInterfaceOrientationPortrait );
 	
 	// Shold not happen
-	return NO;
+//	return NO;
 }
 
 //
