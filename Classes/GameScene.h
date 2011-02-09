@@ -12,6 +12,13 @@
 @interface GameScene : CCLayer {
 	CCSprite* player;
 	CGPoint playerVelocity;
+	
+	CCArray* spiders;
+	float spiderMoveDuration;
+	int numSpidersMoved;
+	float totalTime;
+	int score;
+	CCLabelTTF *scoreLabel;
 }
 +(id) scene;
 @end

@@ -10,6 +10,7 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1F3B9A2D0EF2145700286867 /* DoodleDropAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3B9A2B0EF2145700286867 /* DoodleDropAppDelegate.m */; };
 		3E10A98712FFEBC000D3E9CE /* alien.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E10A98612FFEBC000D3E9CE /* alien.png */; };
+		3E10AA9B1301467500D3E9CE /* spider.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E10AA9A1301467500D3E9CE /* spider.png */; };
 		3E3E4EA312FF3AD800EEFAA0 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3E4EA212FF3AD800EEFAA0 /* GameScene.m */; };
 		504DFBCE10AF12E9006D82FE /* CLScoreServerPost.h in Headers */ = {isa = PBXBuildFile; fileRef = 504DFBC810AF12E9006D82FE /* CLScoreServerPost.h */; };
 		504DFBCF10AF12E9006D82FE /* CLScoreServerPost.m in Sources */ = {isa = PBXBuildFile; fileRef = 504DFBC910AF12E9006D82FE /* CLScoreServerPost.m */; };
@@ -265,6 +266,7 @@
 		1F3B9A820EF2151B00286867 /* DoodleDrop_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DoodleDrop_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3E10A98612FFEBC000D3E9CE /* alien.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alien.png; sourceTree = "<group>"; };
+		3E10AA9A1301467500D3E9CE /* spider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spider.png; sourceTree = "<group>"; };
 		3E3E4EA112FF3AD800EEFAA0 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		3E3E4EA212FF3AD800EEFAA0 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 		504DFBC810AF12E9006D82FE /* CLScoreServerPost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLScoreServerPost.h; sourceTree = "<group>"; };
@@ -705,6 +707,7 @@
 		50F414EB1069373D002A0D5E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3E10AA9A1301467500D3E9CE /* spider.png */,
 				E02BB762126CC1E0006E46A2 /* iTunesArtwork */,
 				E02BB4FE126CA50F006E46A2 /* Icon@2x.png */,
 				E02BB4FF126CA50F006E46A2 /* Icon-Small@2x.png */,
@@ -1125,6 +1128,7 @@
 				E02BB508126CA50F006E46A2 /* Icon-72.png in Resources */,
 				E02BB763126CC1E0006E46A2 /* iTunesArtwork in Resources */,
 				3E10A98712FFEBC000D3E9CE /* alien.png in Resources */,
+				3E10AA9B1301467500D3E9CE /* spider.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
