@@ -12,6 +12,10 @@
 		3E10A98712FFEBC000D3E9CE /* alien.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E10A98612FFEBC000D3E9CE /* alien.png */; };
 		3E10AA9B1301467500D3E9CE /* spider.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E10AA9A1301467500D3E9CE /* spider.png */; };
 		3E3E4EA312FF3AD800EEFAA0 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3E4EA212FF3AD800EEFAA0 /* GameScene.m */; };
+		3E7952CD13089D1900AB02AC /* fuenteNumeracionDoodle.fnt in Resources */ = {isa = PBXBuildFile; fileRef = 3E7952CB13089D1900AB02AC /* fuenteNumeracionDoodle.fnt */; };
+		3E7952CE13089D1900AB02AC /* fuenteNumeracionDoodle.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E7952CC13089D1900AB02AC /* fuenteNumeracionDoodle.png */; };
+		3E7952DF13089E6C00AB02AC /* blues.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3E7952DE13089E6C00AB02AC /* blues.mp3 */; };
+		3E7952FE13089F5A00AB02AC /* alien-sfx.caf in Resources */ = {isa = PBXBuildFile; fileRef = 3E7952FD13089F5A00AB02AC /* alien-sfx.caf */; };
 		504DFBCE10AF12E9006D82FE /* CLScoreServerPost.h in Headers */ = {isa = PBXBuildFile; fileRef = 504DFBC810AF12E9006D82FE /* CLScoreServerPost.h */; };
 		504DFBCF10AF12E9006D82FE /* CLScoreServerPost.m in Sources */ = {isa = PBXBuildFile; fileRef = 504DFBC910AF12E9006D82FE /* CLScoreServerPost.m */; };
 		504DFBD010AF12E9006D82FE /* CLScoreServerRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = 504DFBCA10AF12E9006D82FE /* CLScoreServerRequest.h */; };
@@ -269,6 +273,11 @@
 		3E10AA9A1301467500D3E9CE /* spider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spider.png; sourceTree = "<group>"; };
 		3E3E4EA112FF3AD800EEFAA0 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		3E3E4EA212FF3AD800EEFAA0 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		3E7952CB13089D1900AB02AC /* fuenteNumeracionDoodle.fnt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fuenteNumeracionDoodle.fnt; sourceTree = "<group>"; };
+		3E7952CC13089D1900AB02AC /* fuenteNumeracionDoodle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fuenteNumeracionDoodle.png; sourceTree = "<group>"; };
+		3E7952DE13089E6C00AB02AC /* blues.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = blues.mp3; sourceTree = "<group>"; };
+		3E7952FD13089F5A00AB02AC /* alien-sfx.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "alien-sfx.caf"; sourceTree = "<group>"; };
+		3E7953191308A0C300AB02AC /* iphone-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iphone-Info.plist"; sourceTree = "<group>"; };
 		504DFBC810AF12E9006D82FE /* CLScoreServerPost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLScoreServerPost.h; sourceTree = "<group>"; };
 		504DFBC910AF12E9006D82FE /* CLScoreServerPost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLScoreServerPost.m; sourceTree = "<group>"; };
 		504DFBCA10AF12E9006D82FE /* CLScoreServerRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLScoreServerRequest.h; sourceTree = "<group>"; };
@@ -559,6 +568,7 @@
 				50F414EB1069373D002A0D5E /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				3E7953191308A0C300AB02AC /* iphone-Info.plist */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -707,6 +717,10 @@
 		50F414EB1069373D002A0D5E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3E7952FD13089F5A00AB02AC /* alien-sfx.caf */,
+				3E7952CB13089D1900AB02AC /* fuenteNumeracionDoodle.fnt */,
+				3E7952DE13089E6C00AB02AC /* blues.mp3 */,
+				3E7952CC13089D1900AB02AC /* fuenteNumeracionDoodle.png */,
 				3E10AA9A1301467500D3E9CE /* spider.png */,
 				E02BB762126CC1E0006E46A2 /* iTunesArtwork */,
 				E02BB4FE126CA50F006E46A2 /* Icon@2x.png */,
@@ -1129,6 +1143,10 @@
 				E02BB763126CC1E0006E46A2 /* iTunesArtwork in Resources */,
 				3E10A98712FFEBC000D3E9CE /* alien.png in Resources */,
 				3E10AA9B1301467500D3E9CE /* spider.png in Resources */,
+				3E7952CD13089D1900AB02AC /* fuenteNumeracionDoodle.fnt in Resources */,
+				3E7952CE13089D1900AB02AC /* fuenteNumeracionDoodle.png in Resources */,
+				3E7952DF13089E6C00AB02AC /* blues.mp3 in Resources */,
+				3E7952FE13089F5A00AB02AC /* alien-sfx.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

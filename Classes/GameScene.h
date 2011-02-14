@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
-
+#import "SimpleAudioEngine.h"
 @interface GameScene : CCLayer {
 	CCSprite* player;
 	CGPoint playerVelocity;
@@ -18,7 +18,7 @@
 	int numSpidersMoved;
 	float totalTime;
 	int score;
-	CCLabelTTF *scoreLabel;
+	CCLabelBMFont *scoreLabel;
 }
 +(id) scene;
 @end

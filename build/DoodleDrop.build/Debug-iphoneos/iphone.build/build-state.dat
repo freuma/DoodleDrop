@@ -1,0 +1,57 @@
+Tiphone
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Users/nano/Library/MobileDevice/Provisioning Profiles/Comashare_Profile.mobileprovision
+c000000004D40C6B20000000000001C86
+t1296090802
+s7302
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app
+t2
+s0
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/Info.plist
+t2
+s0
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/PkgInfo
+t2
+s0
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/ResourceRules.plist
+t2
+s0
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/embedded.mobileprovision
+t2
+s0
+
+Niphone-Info.plist
+c000000004D58694300000000000002B1
+t1297639747
+s689
+
+CCodeSign /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app
+r0
+
+CCpResource build/Debug-iphoneos/iphone.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CProcessInfoPlistFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/Info.plist iphone-Info.plist
+r0
+
+CProcessProductPackaging "/Users/nano/Library/MobileDevice/Provisioning Profiles/Comashare_Profile.mobileprovision" /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/iphone.build/iphone.xcent
+r0
+
+CTouch /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/iphone.app
+r0
+

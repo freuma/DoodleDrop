@@ -1,32 +1,36 @@
 TDoodleDrop
 v7
 r0
-t318938959.926948
+t319333902.564641
 cCheck dependencies
 cCpResource build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
-cProcessInfoPlistFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist Resources/Info.plist
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Default.png Resources/Default.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fps_images.png Resources/fps_images.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon.png Resources/Icon.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon@2x.png Resources/Icon@2x.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small.png Resources/Icon-Small.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small-50.png Resources/Icon-Small-50.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-72.png Resources/Icon-72.png
+cProcessInfoPlistFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist Resources/Info.plist
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Default.png Resources/Default.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fps_images.png Resources/fps_images.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon.png Resources/Icon.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon@2x.png Resources/Icon@2x.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small.png Resources/Icon-Small.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small-50.png Resources/Icon-Small-50.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-72.png Resources/Icon-72.png
 cCpResource build/Debug-iphoneos/DoodleDrop.app/iTunesArtwork Resources/iTunesArtwork
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/alien.png Resources/alien.png
-cCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spider.png Resources/spider.png
-cProcessPCH /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch.gch DoodleDrop_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o /Users/Nano/Proyectos/Juegos/DoodleDrop/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cLd /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop normal armv6
-cGenerateDSYMFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
-cProcessProductPackaging "/Users/Nano/Library/MobileDevice/Provisioning Profiles/DEBD17BC-45BC-409D-A1F6-33BEE7830E75.mobileprovision" /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
-cTouch /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
-cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
-cCodeSign /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/alien.png Resources/alien.png
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spider.png Resources/spider.png
+cCpResource build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.fnt Resources/fuenteNumeracionDoodle.fnt
+cCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png Resources/fuenteNumeracionDoodle.png
+cCpResource build/Debug-iphoneos/DoodleDrop.app/blues.mp3 Resources/blues.mp3
+cCpResource build/Debug-iphoneos/DoodleDrop.app/alien-sfx.caf Resources/alien-sfx.caf
+cProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch.gch DoodleDrop_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o /Users/nano/Proyectos/Juegos/DoodleDrop/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop normal armv6
+cGenerateDSYMFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
+cProcessProductPackaging "/Users/nano/Library/MobileDevice/Provisioning Profiles/Comashare_Profile.mobileprovision" /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
+cTouch /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
+cCodeSign /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
 c000000004CC7DC9E0000000000000110
@@ -48,10 +52,25 @@ c000000004CC11C42000000000020BF30
 t1287724098
 s2146096
 
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
 c000000004CC10EF400000000003B8CB0
 t1287720692
 s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h
+c000000004CC10D70000000000000A48C
+t1287720304
+s42124
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c000000004CC10EF500000000003532B0
@@ -77,6 +96,16 @@ N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Li
 c000000004CC10F1C0000000000001466
 t1287720732
 s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC10F3300000000000064FD
+t1287720755
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC10F330000000000001F45
+t1287720755
+s8005
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
 c000000004CC10F3800000000000459B0
@@ -1139,18 +1168,1065 @@ t1297068664
 s379
 i<UIKit/UIKit.h>
 
+N/Users/nano/Library/MobileDevice/Provisioning Profiles/Comashare_Profile.mobileprovision
+c000000004D40C6B20000000000001C86
+t1296090802
+s7302
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.h
+c000000004D585C91000000000000019B
+t1297636497
+s411
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m
+c000000004D585C91000000000000119C
+t1297636497
+s4508
+i"cocos2d.h"
+i"DoodleDropAppDelegate.h"
+i"GameConfig.h"
+i"GameScene.h"
+i"RootViewController.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameConfig.h
+c000000004D585C910000000000000238
+t1297636497
+s568
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.h
+c000000004D58677F00000000000001D6
+t1297639295
+s470
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"SimpleAudioEngine.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m
+c000000004D586E8900000000000028E7
+t1297641097
+s10471
+i"GameScene.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.h
+c000000004D585C910000000000000100
+t1297636497
+s256
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m
+c000000004D585C9100000000000011A0
+t1297636497
+s4512
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/DoodleDrop_Prefix.pch
+c000000004D585C9100000000000000B7
+t1297636497
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Default.png
+c000000004D585C9100000000000077AB
+t1297636497
+s30635
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon-72.png
+c000000004D585C910000000000002C96
+t1297636497
+s11414
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon-Small-50.png
+c000000004D585C910000000000001F2B
+t1297636497
+s7979
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon-Small.png
+c000000004D585C91000000000000135C
+t1297636497
+s4956
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon-Small@2x.png
+c000000004D585C9100000000000024F9
+t1297636497
+s9465
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon.png
+c000000004D585C91000000000000246F
+t1297636497
+s9327
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/Icon@2x.png
+c000000004D585C910000000000005375
+t1297636497
+s21365
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/alien-sfx.caf
+c000000004C49C00C000000000000A8EC
+t1279901708
+s43244
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/alien.png
+c000000004D585C910000000000000A4D
+t1297636497
+s2637
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/blues.mp3
+c000000004C49C00C00000000000D0DB7
+t1279901708
+s855479
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fps_images.png
+c000000004D585C91000000000000183B
+t1297636497
+s6203
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.fnt
+c000000004D5857C000000000000005FD
+t1297635264
+s1533
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.png
+c000000004D5857C00000000000003F19
+t1297635264
+s16153
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.fnt
+c000000004D58653C0000000000000605
+t1297638716
+s1541
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.png
+c000000004D58653D0000000000003BDF
+t1297638717
+s15327
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/iTunesArtwork
+c000000004D585C91000000000000F21E
+t1297636497
+s61982
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/spider.png
+c000000004D585C91000000000000067D
+t1297636497
+s1661
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+t1297641102
+s884
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM
+t1297641101
+s102
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Default.png
+t1297636497
+s31932
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
+t1297641101
+s1532768
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-72.png
+t1297636497
+s12252
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small-50.png
+t1297636497
+s8600
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small.png
+t1297636497
+s5241
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small@2x.png
+t1297636497
+s10151
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon.png
+t1297636497
+s10022
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon@2x.png
+t1297636497
+s23297
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist
+t1297636497
+s1056
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/PkgInfo
+t1297636497
+s8
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist
+t1297636497
+s485
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/alien-sfx.caf
+t1297639432
+s43244
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/alien.png
+t1297636497
+s2226
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/blues.mp3
+t1297639432
+s855479
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
+t1297636497
+s7302
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fps_images.png
+t1297636497
+s7188
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.fnt
+t1297637097
+s1533
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.png
+t1297637098
+s23428
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.fnt
+t1297638848
+s1541
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png
+t1297638849
+s19932
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/iTunesArtwork
+t1297636497
+s61982
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spider.png
+t1297636497
+s1587
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/libcocos2d libraries.a
+c000000004D585EE900000000003A26F0
+t1297637097
+s3811056
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
+t1297636498
+s426
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDrop.LinkFileList
+c000000004D585EE90000000000000210
+t1297637097
+s528
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o
+t1297639433
+s62508
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o
+t1297641101
+s48704
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o
+t1297637100
+s46920
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o
+t1297637099
+s3380
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/CocosDenshion/CDAudioManager.h
+c000000004D585C9200000000000024D2
+t1297636498
+s9426
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+i"CDXMacOSXSupport.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/CocosDenshion/CDConfig.h
+c000000004D585C920000000000000A9A
+t1297636498
+s2714
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/CocosDenshion/CDOpenALSupport.h
+c000000004D585C920000000000000CF9
+t1297636498
+s3321
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreFoundation/CFURL.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/CocosDenshion/CocosDenshion.h
+c000000004D585C9200000000000037AC
+t1297636498
+s14252
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i"CDConfig.h"
+i"CDOpenALSupport.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004D585C920000000000000EE0
+t1297636498
+s3808
+i"CDAudioManager.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCAction.h
+c000000004D585C92000000000000167A
+t1297636498
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionCamera.h
+c000000004D585C9200000000000009BC
+t1297636498
+s2492
+i"CCActionInterval.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionEase.h
+c000000004D585C920000000000001671
+t1297636498
+s5745
+i"CCActionInterval.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionGrid.h
+c000000004D585C92000000000000148B
+t1297636498
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionGrid3D.h
+c000000004D585C920000000000001A8A
+t1297636498
+s6794
+i"CCActionGrid.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionInstant.h
+c000000004D585C9200000000000013AA
+t1297636498
+s5034
+i"CCAction.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionInterval.h
+c000000004D585C920000000000003265
+t1297636498
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionManager.h
+c000000004D585C920000000000001071
+t1297636498
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D585C920000000000000644
+t1297636498
+s1604
+i"CCActionGrid3D.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionProgressTimer.h
+c000000004D585C92000000000000088D
+t1297636498
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionTiledGrid.h
+c000000004D585C920000000000001A15
+t1297636498
+s6677
+i"CCActionGrid.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCActionTween.h
+c000000004D585C920000000000000931
+t1297636498
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCAnimation.h
+c000000004D585C92000000000000126D
+t1297636498
+s4717
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCAnimationCache.h
+c000000004D585C9200000000000008DD
+t1297636498
+s2269
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCAtlasNode.h
+c000000004D585C920000000000000C06
+t1297636498
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCBlockSupport.h
+c000000004D585C92000000000000066F
+t1297636498
+s1647
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCCamera.h
+c000000004D585C920000000000000C84
+t1297636498
+s3204
+i"CCNode.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCCompatibility.h
+c000000004D585C920000000000003891
+t1297636498
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCConfiguration.h
+c000000004D585C920000000000000D36
+t1297636498
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCDirector.h
+c000000004D585C9200000000000025C4
+t1297636498
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D585C920000000000000C32
+t1297636498
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCGrabber.h
+c000000004D585C9200000000000005E4
+t1297636498
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCGrid.h
+c000000004D585C920000000000000E5A
+t1297636498
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCLabelAtlas.h
+c000000004D585C920000000000000B24
+t1297636498
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCLabelBMFont.h
+c000000004D585C920000000000001641
+t1297636498
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCLabelTTF.h
+c000000004D585C920000000000000A87
+t1297636498
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCLayer.h
+c000000004D585C9200000000000020E9
+t1297636498
+s8425
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCMenu.h
+c000000004D585C920000000000000B29
+t1297636498
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCMenuItem.h
+c000000004D585C9200000000000033A8
+t1297636498
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCMotionStreak.h
+c000000004D585C920000000000000B2A
+t1297636498
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCNode.h
+c000000004D585C920000000000004485
+t1297636498
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCParallaxNode.h
+c000000004D585C92000000000000075D
+t1297636498
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCParticleExamples.h
+c000000004D585C920000000000000AD0
+t1297636498
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCParticleSystem.h
+c000000004D585C9200000000000037B8
+t1297636498
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D585C920000000000000846
+t1297636498
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D585C9200000000000009F8
+t1297636498
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCProgressTimer.h
+c000000004D585C920000000000000B48
+t1297636498
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCProtocols.h
+c000000004D585C920000000000000F9A
+t1297636498
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCRenderTexture.h
+c000000004D585C920000000000000F2A
+t1297636498
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCRibbon.h
+c000000004D585C920000000000000FCD
+t1297636498
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCScene.h
+c000000004D585C920000000000000676
+t1297636498
+s1654
+i"CCNode.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCScheduler.h
+c000000004D585C9200000000000019D7
+t1297636498
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCSprite.h
+c000000004D585C92000000000000345C
+t1297636498
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D585C9200000000000018F8
+t1297636498
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCSpriteFrame.h
+c000000004D585C920000000000000D5A
+t1297636498
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D585C920000000000001394
+t1297636498
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCSpriteSheet.h
+c000000004D585C9200000000000009FE
+t1297636498
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTMXLayer.h
+c000000004D585C92000000000000182A
+t1297636498
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D585C9200000000000008D5
+t1297636498
+s2261
+i"CCSpriteSheet.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTMXTiledMap.h
+c000000004D585C9200000000000014D4
+t1297636498
+s5332
+i"CCSpriteSheet.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTMXXMLParser.h
+c000000004D585C9200000000000016B9
+t1297636498
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTexture2D.h
+c000000004D585C920000000000002C9A
+t1297636498
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTextureAtlas.h
+c000000004D585C92000000000000145B
+t1297636498
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTextureCache.h
+c000000004D585C9200000000000014C2
+t1297636498
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTexturePVR.h
+c000000004D585C920000000000000FB9
+t1297636498
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTileMapAtlas.h
+c000000004D585C920000000000000B86
+t1297636498
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTransition.h
+c000000004D585C920000000000002134
+t1297636498
+s8500
+i"CCScene.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D585C920000000000000917
+t1297636498
+s2327
+i"CCTransition.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/CCTransitionRadial.h
+c000000004D585C920000000000000630
+t1297636498
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/CCGL.h
+c000000004D585C920000000000000BF8
+t1297636498
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/CCNS.h
+c000000004D585C920000000000000965
+t1297636498
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D585C920000000000000C84
+t1297636498
+s3204
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D585C920000000000001AA7
+t1297636498
+s6823
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D585C920000000000000B8C
+t1297636498
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D585C920000000000002B53
+t1297636498
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D585C920000000000000BC3
+t1297636498
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D585C9200000000000010CA
+t1297636498
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D585C920000000000000D99
+t1297636498
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D585C920000000000001B69
+t1297636498
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D585C92000000000000083A
+t1297636498
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D585C92000000000000030D
+t1297636498
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/CCArray.h
+c000000004D585C920000000000000BED
+t1297636498
+s3053
+i"ccCArray.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/CCFileUtils.h
+c000000004D585C9200000000000007E8
+t1297636498
+s2024
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/CCProfiling.h
+c000000004D585C9200000000000006E9
+t1297636498
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/CGPointExtension.h
+c000000004D585C920000000000001EAB
+t1297636498
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D585C9200000000000011A7
+t1297636498
+s4519
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/TGAlib.h
+c000000004D585C920000000000000444
+t1297636498
+s1092
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/ccCArray.h
+c000000004D585C9200000000000030F3
+t1297636498
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/ccUtils.h
+c000000004D585C920000000000000204
+t1297636498
+s516
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/uthash.h
+c000000004D585C92000000000000FB13
+t1297636498
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/Support/utlist.h
+c000000004D585C920000000000009091
+t1297636498
+s37009
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/ccConfig.h
+c000000004D585C920000000000002896
+t1297636498
+s10390
+i<Availability.h>
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/ccMacros.h
+c000000004D585C920000000000001DFE
+t1297636498
+s7678
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/ccTypes.h
+c000000004D585C9200000000000016D2
+t1297636498
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/libs/cocos2d/cocos2d.h
+c000000004D585C9200000000000010FF
+t1297636498
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/nano/Proyectos/Juegos/DoodleDrop/main.m
+c000000004D585C92000000000000017B
+t1297636498
+s379
+i<UIKit/UIKit.h>
+
 N/var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch.gch
 t1297069566
 s7726808
 
+N/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch.gch
+t1297637099
+s7726808
+
 NResources/Info.plist
-c000000004D4FB2770000000000000515
-t1297068663
+c000000004D585C910000000000000515
+t1297636497
 s1301
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies318938959#318938959#0(0"0(0#1#0"8671616704#0"0#
+lSLF07#2@18"Check dependencies319333900#319333900#0(0"0(0#1#0"8650730720#0"0#
 
 CCodeSign /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
 s318938959.763985
@@ -1159,6 +2235,14 @@ r1
 xCodeSign
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
 lSLF07#2@44"CodeSign build/Debug-iphoneos/DoodleDrop.app318938959#318938959#0(0"0(0#0#75"/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app8686011872#676"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: fernando martinez-gil (35TNG2R3E8)" --resource-rules=/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist --entitlements /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CCodeSign /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+s319333901.773797
+e319333902.564498
+r1
+xCodeSign
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/DoodleDrop.app319333901#319333902#0(0"0(0#0#75"/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app8650348320#676"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: fernando martinez-gil (35TNG2R3E8)" --resource-rules=/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist --entitlements /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
 
 CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s318938944.552576
@@ -1172,6 +2256,19 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@79"Compile /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m318938944#318938944#0(0"0(0#0#71"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m8684777376#1970"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch -c /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o0#
+
+CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s319332232.923719
+e319332233.901031
+r1
+xCompileC
+xbuild/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o
+x/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m319332232#319332233#0(0"0(0#0#71"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m8632019232#1970"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch -c /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/DoodleDropAppDelegate.m -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDropAppDelegate.o0#
 
 CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s318938959.233112
@@ -1195,6 +2292,32 @@ o/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[Gam
 o/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:164: warning: 'GameScene' may not respond to '-checkForCollision'
 lSLF07#2@67"Compile /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m318938959#318938959#0(985"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene init]':/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:39: warning: 'GameScene' may not respond to '-initSpiders'/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:39: warning: (Messages without a matching method signature/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:39: warning: will be assumed to return 'id' and accept/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:39: warning: '...' as arguments.)/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene initSpiders]':/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:60: warning: 'GameScene' may not respond to '-resetSpiders'/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene update:]':/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:164: warning: 'GameScene' may not respond to '-checkForCollision'4(22@45"'GameScene' may not respond to '-initSpiders'318938959#94#119#0(6@59"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m318938957#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318938959#213#119#0(6@59"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m318938957#39#0#39#0#0"0(22@46"'GameScene' may not respond to '-resetSpiders'318938959#642#120#0(6@59"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m318938957#60#0#60#0#26"'*' may not respond to '*'0(22@51"'GameScene' may not respond to '-checkForCollision'318938959#859#126#0(6@59"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m318938957#164#0#164#0#26"'*' may not respond to '*'0(0#0#59"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m8682487552#1946"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch -c /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o0#
 
+CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s319333900.773691
+e319333901.115167
+r1
+xCompileC
+xbuild/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o
+x/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene init]':
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: 'GameScene' may not respond to '-initSpiders'
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: (Messages without a matching method signature
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: will be assumed to return 'id' and accept
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: '...' as arguments.)
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene initSpiders]':
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:61: warning: 'GameScene' may not respond to '-resetSpiders'
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene update:]':
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:165: warning: 'GameScene' may not respond to '-checkForCollision'
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene checkForCollision]':
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:187: warning: 'GameScene' may not respond to '-showGameOver'
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene ccTouchesEnded:withEvent:]':
+o/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:286: warning: 'GameScene' may not respond to '-resetGame'
+lSLF07#2@67"Compile /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333900#319333901#0(1446"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene init]':/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: 'GameScene' may not respond to '-initSpiders'/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: (Messages without a matching method signature/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: will be assumed to return 'id' and accept/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:40: warning: '...' as arguments.)/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene initSpiders]':/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:61: warning: 'GameScene' may not respond to '-resetSpiders'/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene update:]':/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:165: warning: 'GameScene' may not respond to '-checkForCollision'/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene checkForCollision]':/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:187: warning: 'GameScene' may not respond to '-showGameOver'/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m: In function '-[GameScene ccTouchesEnded:withEvent:]':/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m:286: warning: 'GameScene' may not respond to '-resetGame'6(22@45"'GameScene' may not respond to '-initSpiders'319333900#94#119#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#40#0#40#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)319333900#213#119#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#40#0#40#0#0"0(22@46"'GameScene' may not respond to '-resetSpiders'319333900#642#120#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#61#0#61#0#26"'*' may not respond to '*'0(22@51"'GameScene' may not respond to '-checkForCollision'319333901#859#126#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#165#0#165#0#26"'*' may not respond to '*'0(22@46"'GameScene' may not respond to '-showGameOver'319333901#1092#121#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#187#0#187#0#26"'*' may not respond to '*'0(22@43"'GameScene' may not respond to '-resetGame'319333901#1328#118#0(6@59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m319333897#286#0#286#0#26"'*' may not respond to '*'0(0#0#59"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m8638045408#1946"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch -c /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/GameScene.m -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/GameScene.o0#
+
 CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/HelloWorldScene.o /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/HelloWorldScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 r0
 
@@ -1211,6 +2334,19 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@76"Compile /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m318764228#318764228#0(0"0(0#0#68"/Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m8619044480#1964"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch -c /Users/Nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o0#
 
+CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s319329899.945376
+e319329900.148687
+r1
+xCompileC
+xbuild/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o
+x/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m319329899#319329900#0(0"0(0#0#68"/Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m8632610848#1964"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch -c /Users/nano/Proyectos/Juegos/DoodleDrop/Classes/RootViewController.m -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/RootViewController.o0#
+
 CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o /Users/Nano/Proyectos/Juegos/DoodleDrop/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s318762366.657424
 e318762366.708264
@@ -1223,6 +2359,19 @@ xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@54"Compile /Users/Nano/Proyectos/Juegos/DoodleDrop/main.m318762366#318762366#0(0"0(0#0#46"/Users/Nano/Proyectos/Juegos/DoodleDrop/main.m8601620416#1928"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch -c /Users/Nano/Proyectos/Juegos/DoodleDrop/main.m -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o /Users/nano/Proyectos/Juegos/DoodleDrop/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s319329899.805472
+e319329899.945261
+r1
+xCompileC
+xbuild/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o
+x/Users/nano/Proyectos/Juegos/DoodleDrop/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/nano/Proyectos/Juegos/DoodleDrop/main.m319329899#319329899#0(0"0(0#0#46"/Users/nano/Proyectos/Juegos/DoodleDrop/main.m8633089984#1928"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch -c /Users/nano/Proyectos/Juegos/DoodleDrop/main.m -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/main.o0#
 
 CCopyPNGFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Default.png Resources/Default.png
 s318762365.716274
@@ -1314,6 +2463,54 @@ x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spi
 xResources/spider.png
 lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/DoodleDrop.app/spider.png Resources/spider.png318850729#318850729#0(0"0(0#0#60"/Users/Nano/Proyectos/Juegos/DoodleDrop/Resources/spider.png8650081792#576"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Nano/Proyectos/Juegos/DoodleDrop/Resources/spider.png /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spider.png0#
 
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Default.png Resources/Default.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-72.png Resources/Icon-72.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small-50.png Resources/Icon-Small-50.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small.png Resources/Icon-Small.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon-Small@2x.png Resources/Icon-Small@2x.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon.png Resources/Icon.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Icon@2x.png Resources/Icon@2x.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/alien.png Resources/alien.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fps_images.png Resources/fps_images.png
+r0
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.png Resources/fuenteMarcador.png
+s319329897.651087
+e319329898.694607
+r1
+xCopyPNGFile
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.png
+xResources/fuenteMarcador.png
+lSLF07#2@95"CopyPNGFile build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.png Resources/fuenteMarcador.png319329897#319329898#0(0"0(0#0#68"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.png8632871200#592"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.png /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.png0#
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png Resources/fuenteNumeracionDoodle.png
+s319331648.812966
+e319331649.667631
+r1
+xCopyPNGFile
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png
+xResources/fuenteNumeracionDoodle.png
+lSLF07#2@111"CopyPNGFile build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png Resources/fuenteNumeracionDoodle.png319331648#319331649#0(0"0(0#0#76"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.png8640352384#608"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.png /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.png0#
+
+CCopyPNGFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/spider.png Resources/spider.png
+r0
+
 CCpResource build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 s318762365.660600
 e318762365.716185
@@ -1322,6 +2519,42 @@ xCpResource
 xbuild/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist318762365#318762365#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8607270144#499"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CCpResource build/Debug-iphoneos/DoodleDrop.app/alien-sfx.caf Resources/alien-sfx.caf
+s319332232.735905
+e319332232.850993
+r1
+xCpResource
+xbuild/Debug-iphoneos/DoodleDrop.app/alien-sfx.caf
+xResources/alien-sfx.caf
+lSLF07#2@28"Copy Resources/alien-sfx.caf319332232#319332232#0(0"0(0#0#63"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/alien-sfx.caf8641657088#473"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/alien-sfx.caf /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CCpResource build/Debug-iphoneos/DoodleDrop.app/blues.mp3 Resources/blues.mp3
+s319332232.732332
+e319332232.922688
+r1
+xCpResource
+xbuild/Debug-iphoneos/DoodleDrop.app/blues.mp3
+xResources/blues.mp3
+lSLF07#2@24"Copy Resources/blues.mp3319332232#319332232#0(0"0(0#0#59"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/blues.mp38643183584#469"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/blues.mp3 /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CCpResource build/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.fnt Resources/fuenteMarcador.fnt
+s319329897.650116
+e319329897.832056
+r1
+xCpResource
+xbuild/Debug-iphoneos/DoodleDrop.app/fuenteMarcador.fnt
+xResources/fuenteMarcador.fnt
+lSLF07#2@33"Copy Resources/fuenteMarcador.fnt319329897#319329897#0(0"0(0#0#68"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.fnt8617339744#478"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteMarcador.fnt /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CCpResource build/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.fnt Resources/fuenteNumeracionDoodle.fnt
+s319331648.812026
+e319331648.920040
+r1
+xCpResource
+xbuild/Debug-iphoneos/DoodleDrop.app/fuenteNumeracionDoodle.fnt
+xResources/fuenteNumeracionDoodle.fnt
+lSLF07#2@41"Copy Resources/fuenteNumeracionDoodle.fnt319331648#319331648#0(0"0(0#0#76"/Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.fnt8640799008#486"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nano/Proyectos/Juegos/DoodleDrop/Resources/fuenteNumeracionDoodle.fnt /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
 
 CCpResource build/Debug-iphoneos/DoodleDrop.app/iTunesArtwork Resources/iTunesArtwork
 s318762366.196723
@@ -1341,6 +2574,15 @@ x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSY
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
 lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/DoodleDrop.app.dSYM build/Debug-iphoneos/DoodleDrop.app/DoodleDrop318938959#318938959#0(0"0(0#0#86"/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop8680155648#374"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM0#
 
+CGenerateDSYMFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
+s319333901.451183
+e319333901.770788
+r1
+xGenerateDSYMFile
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/DoodleDrop.app.dSYM build/Debug-iphoneos/DoodleDrop.app/DoodleDrop319333901#319333901#0(0"0(0#0#86"/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop8655320448#374"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app.dSYM0#
+
 CLd /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop normal armv6
 s318938959.434962
 e318938959.642055
@@ -1351,6 +2593,16 @@ xnormal
 xarmv6
 lSLF07#2@91"Link /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop318938959#318938959#0(0"0(0#0#0"8686023328#997"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -filelist /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDrop.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop0#
 
+CLd /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop normal armv6
+s319333901.115252
+e319333901.451084
+r1
+xLd
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop
+xnormal
+xarmv6
+lSLF07#2@91"Link /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop319333901#319333901#0(0"0(0#0#0"8641057376#997"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -filelist /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/Objects-normal/armv6/DoodleDrop.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/DoodleDrop0#
+
 CProcessInfoPlistFile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist Resources/Info.plist
 s318762365.661347
 e318762365.685369
@@ -1359,6 +2611,9 @@ xProcessInfoPlistFile
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist
 xResources/Info.plist
 lSLF07#2@28"Process Resources/Info.plist318762365#318762365#0(0"0(0#0#60"/Users/Nano/Proyectos/Juegos/DoodleDrop/Resources/Info.plist8607125152#577"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/ResourceRules.plist -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/Info.plist Resources/Info.plist
+r0
 
 CProcessPCH /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch.gch DoodleDrop_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
 s318762366.224694
@@ -1373,6 +2628,19 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF07#2@32"Precompile DoodleDrop_Prefix.pch318762366#318762366#0(0"0(0#0#61"/Users/Nano/Proyectos/Juegos/DoodleDrop/DoodleDrop_Prefix.pch8602914848#1822"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/Nano/Proyectos/Juegos/DoodleDrop/DoodleDrop_Prefix.pch -o /var/folders/RN/RN46myrbGGuCe0UwfAHZzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-aowresmjdmwakfcmncfrherzkxcm/DoodleDrop_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch.gch DoodleDrop_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s319329898.694841
+e319329899.805374
+r1
+xProcessPCH
+x/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch.gch
+xDoodleDrop_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@32"Precompile DoodleDrop_Prefix.pch319329898#319329899#0(0"0(0#0#61"/Users/nano/Proyectos/Juegos/DoodleDrop/DoodleDrop_Prefix.pch8634119072#1822"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-generated-files.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-own-target-headers.hmap -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-all-target-headers.hmap -iquote /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop-project-headers.hmap -Wall -F/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/include -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources/armv6 -I/Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nano/Proyectos/Juegos/DoodleDrop/DoodleDrop_Prefix.pch -o /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DoodleDrop_Prefix-bddnvfskvdzrsmawzutedmtspzhp/DoodleDrop_Prefix.pch.gch0#
+
 CProcessProductPackaging "/Users/Nano/Library/MobileDevice/Provisioning Profiles/DEBD17BC-45BC-409D-A1F6-33BEE7830E75.mobileprovision" /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
 s318762368.029010
 e318762368.030054
@@ -1381,6 +2649,9 @@ xProcessProductPackaging
 x/Users/Nano/Library/MobileDevice/Provisioning Profiles/DEBD17BC-45BC-409D-A1F6-33BEE7830E75.mobileprovision
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
 lSLF07#2@194"ProcessProductPackaging "/Users/Nano/Library/MobileDevice/Provisioning Profiles/DEBD17BC-45BC-409D-A1F6-33BEE7830E75.mobileprovision" build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision318762368#318762368#0(0"0(0#0#100"/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision8608469952#427"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Nano/Library/MobileDevice/Provisioning Profiles/DEBD17BC-45BC-409D-A1F6-33BEE7830E75.mobileprovision" -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/nano/Library/MobileDevice/Provisioning Profiles/Comashare_Profile.mobileprovision" /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app/embedded.mobileprovision
+r0
 
 CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
 s318762368.033491
@@ -1391,6 +2662,9 @@ x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitleme
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
 lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent318762368#318762368#0(0"0(0#0#111"/Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent8607663328#443"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/Nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent0#
 
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/nano/Proyectos/Juegos/DoodleDrop/build/DoodleDrop.build/Debug-iphoneos/DoodleDrop.build/DoodleDrop.xcent
+r0
+
 CTouch /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
 s318938959.760957
 e318938959.763851
@@ -1398,4 +2672,12 @@ r1
 xTouch
 x/Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
 lSLF07#2@81"Touch /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app318938959#318938959#0(0"0(0#0#0"8686697888#269"    cd /Users/Nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
+
+CTouch /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+s319333901.770933
+e319333901.773673
+r1
+xTouch
+x/Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app
+lSLF07#2@81"Touch /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app319333901#319333901#0(0"0(0#0#0"8654146432#269"    cd /Users/nano/Proyectos/Juegos/DoodleDrop    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nano/Proyectos/Juegos/DoodleDrop/build/Debug-iphoneos/DoodleDrop.app0#
 
